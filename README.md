@@ -1,16 +1,13 @@
-### How to score 0.8134 in Titanic Kaggle Challenge
+# 如何在 Titanic Kaggle Challenge 中获得0.8134分
 
-The Titanic challenge on Kaggle is a competition in which the task is to predict the survival or the death of a given passenger based on a set of variables describing him such as his age, his sex, or his passenger class on the boat.
-I have been playing with the Titanic dataset for a while, and I have recently achieved an accuracy score of 0.8134 on the public leaderboard.
-As I'm writing this post, I am ranked among the top 9% of all Kagglers: More than 4540 teams are currently competing.
+Kaggle 上泰坦尼克号生存挑战的挑战是一项竞赛，其任务是根据一组描述乘客的变量来预测特定乘客的生存或死亡，例如他的年龄，性别或船上的乘客等级。我一直在玩 Titanic 数据集，我最近在公共排行榜上获得了0.8134的准确度分数。当我写这篇文章时，我在所有Kaggler中排名前9％：目前有超过4540支参赛队伍。
 
-In a form of a jupyter notebook, my solution goes through the basic steps of a data science pipeline: 
+使用 jupyter 笔记本的形式，我的解决方案贯穿数据科学管道的基本步骤：
 
-- Exploratory data analysis with visualizations
-- Data cleaning
-- Feature engineering
-- Modeling 
-- Modelfine-tuning
+- 可视化的探索性数据分析
+- 数据清理
+- 特征工程
+- 造型
+- Modelfine调整
 
 ![energy](./images/article_1/score.png)
-
